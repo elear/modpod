@@ -17,6 +17,7 @@ The IETF has a number of processes to address moderation of participants in non-
 
 The MODPOD work group will revise existing and define new moderation procedures suitable for all IETF communication channels.  The approaches the WG defines will:
 
+- Encourage IETF participants to Be Excellent To Each Other
 - Aim to ensure that consistent and fair moderation procedures exist for all channels/forums in the IETF
 - Determine who can take moderation actions on a per channel/forum basis, how they are selected and the terms of their service, and the authority afforded to them
 - Determine who can initiate or propose a moderation action
