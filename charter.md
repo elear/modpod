@@ -2,7 +2,7 @@
 
 ## Background
 
-We are all human and sometimes discussions take a bad turn.
+While we should strive to be excellent to one another, sometimes conversations take a bad turn, requiring some sort of intervention.
 
 The IETF has a number of processes to address moderation of participants in non-face-to-face venues (e.g., RFC3934, RFC9245, BCP83, and “IESG Statement of Disruptive Posting”) in response to behavior which violates the IETF guidelines for conduct (RFC7154).  Experience implementing moderation in the IETF has found:
 
@@ -17,7 +17,6 @@ The IETF has a number of processes to address moderation of participants in non-
 
 The MODPOD work group will revise existing and define new moderation procedures suitable for all IETF communication channels.  The approaches the WG defines will:
 
-- Encourage participants to Be Excellent To Each Other
 - Aim to ensure that consistent and fair moderation procedures exist for all channels/forums in the IETF
 - Determine who can take moderation actions on a per channel/forum basis, how they are selected and the terms of their service, and the authority afforded to them
 - Determine who can initiate or propose a moderation action
